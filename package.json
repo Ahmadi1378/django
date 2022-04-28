@@ -1,5 +1,5 @@
 {
-  "name": "Django",
+  "name": "Django installer for testable",
   "private": true,
   "scripts": {
     "pretest": "eslint .",
